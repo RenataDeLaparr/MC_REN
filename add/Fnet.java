@@ -1,7 +1,7 @@
 package add;
 
 /**
- * Un JFrame avec une Ition dessus
+ * A JFrame with an Ition 
  */
 public class Fnet extends javax.swing.JFrame
 {
