@@ -1,1 +1,2 @@
-The Program starts with a click on the "addition.jar" File. 
+Step one: click on the "addition.jar" File
+Step two: enjoy the Music  
