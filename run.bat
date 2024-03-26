@@ -1,0 +1,1 @@
+"C:\Programme\Java\jdk1.6.0_18\jre\bin\java" -Xint -classpath classes add.Fnet %1 %2 %3 %4 %5 %6 %7 %8 %9
