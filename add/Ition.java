@@ -1,7 +1,7 @@
 package add;
 
 /**
- * A JApplet - where it happens
+ * A JApplet 
  */
 
 public class Ition extends javax.swing.JApplet implements javax.sound.midi.MetaEventListener
